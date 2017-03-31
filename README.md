@@ -1,5 +1,5 @@
 # pypros
-Script python creado para compilar codigo sass y haml.
+Script python que funciona como preprocesador de haml y sass.
 
 # Utilizacion :
  1-Copiar el script dentro del directorio de los archivos .scss o .haml
